@@ -1,6 +1,6 @@
 #### C言語
 - [苦しんで覚えるＣ言語](https://9cguide.appspot.com/index.html): ご存知の
-- [🗺️ C++ の歩き方 - cppmap](https://cppmap.github.io/): C++20/23/26 articles and resources written in Japanese
+- [一週間で身につくC言語の基本](http://c-lang.sevendays-study.com/index.html): 
 - [😛 Siv3D for Kids](https://siv3d-for-kids.github.io/): A programming tool to get kids excited about programming
 
 #### Books and Presentations
