@@ -14,7 +14,7 @@
 - [UNIX/Linux の部屋 >> ジャンル別UNIX/Linuxコマンド一覧](http://x68000.q-e-d.net/~68user/unix/genre.html)
 
 #### Git / Github
-- [git](https://git-scm.com/book/en/v2)
+- [git](https://git-scm.com/)
 - [キツネの惑星](https://kitsune.blog/git-summary)
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - [GitHubの大枠をわかりやすくまとめてみた](https://qiita.com/daisuke19840125/items/eaf6928f7accf00773f0)
