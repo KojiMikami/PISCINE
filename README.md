@@ -1,5 +1,5 @@
-#### Projects
-- [🦖 OpenSiv3D](https://github.com/Siv3D/OpenSiv3D): C++17/C++20 framework for creative coding
+#### C言語
+- [苦しんで覚えるＣ言語](https://9cguide.appspot.com/index.html): ご存知の
 - [🗺️ C++ の歩き方 - cppmap](https://cppmap.github.io/): C++20/23/26 articles and resources written in Japanese
 - [😛 Siv3D for Kids](https://siv3d-for-kids.github.io/): A programming tool to get kids excited about programming
 
@@ -13,4 +13,3 @@
 - 🏢 プロフェッショナル C++ から子ども向けまで、オンライン可、最小 1.5 時間
 - 🏫 早稲田情報科学ジュニア・アカデミー（早稲田大学）、駒澤大学、[U-17 未踏ジュニア](https://jr.mitou.org/)でも指導中
 
-<button type="button" class="btn btn-primary">Primary</button>
