@@ -1,8 +1,11 @@
 #### C言語
 - [苦しんで覚えるＣ言語](https://9cguide.appspot.com/index.html): ご存知の
 - [一週間で身につくC言語の基本](http://c-lang.sevendays-study.com/index.html): 
-- [一週間で身につくC言語の基本](http://c-lang.sevendays-study.com/index.html): 
-- [😛 Siv3D for Kids](https://siv3d-for-kids.github.io/): A programming tool to get kids excited about programming
+- [初心者のためのポイント学習Ｃ言語](http://www9.plala.or.jp/sgwr-t/): 
+- [Programming Place Plus](https://programming-place.net/ppp/contents/c/index.html):
+- [cppreference.com](https://en.cppreference.com/w/c):
+- [Programming Place Plus](https://programming-place.net/ppp/contents/c/index.html):
+- [Programming Place Plus](https://programming-place.net/ppp/contents/c/index.html):
 
 #### Books and Presentations
 - [🛸 ゲーム開発者のための C++11～C++20, 将来の C++ の展望](https://speakerdeck.com/cpp/cedec2020) | CEDEC 2020
