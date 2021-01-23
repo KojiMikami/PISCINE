@@ -17,7 +17,7 @@
 #### アルゴリズムとデータ構造
 - [一週間で身につくアルゴリズムとデータ構造](http://sevendays-study.com/algorithm/): 
 - [アルゴリズムの紹介](http://fussy.web.fc2.com/algo/index.htm)
-- [ソースコード探険隊](https://programming-place.net/ppp/contents/algorithm/index.html)
+- [Programming Place Plus](https://programming-place.net/ppp/contents/algorithm/index.html)
 - [プログラミング体験ゲーム：アルゴロジック ｜ JEITA](https://home.jeita.or.jp/is/algo/)
 - [ソースコード探険隊](https://www.codereading.com/algo_and_ds/)
 
