@@ -16,7 +16,7 @@
 #### Git / Github
 - [git](https://git-scm.com/book/en/v2)
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
-- [GitHubの大枠をわかりやすくまとめてみた](https://www.google.com/search?rlz=1C5CHFA_enJP933JP933&sxsrf=ALeKk01ZSIyV0W3st4L7KrhypnwIyAOTkw:1611382035405&q=github%E3%81%A8%E3%81%AF+%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F&sa=X&ved=2ahUKEwi49sTusbHuAhXNGKYKHc2iDIAQ1QIoAHoECAwQAQ&biw=1440&bih=789)
+- [GitHubの大枠をわかりやすくまとめてみた](https://qiita.com/daisuke19840125/items/eaf6928f7accf00773f0)
 - [GitHub Desktop：初心者でも分かる、易しい使い方](https://ferret-plus.com/8498)
 - [キツネの惑星](https://kitsune.blog/git-summary)
 
