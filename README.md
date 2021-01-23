@@ -1,6 +1,7 @@
 #### C言語
 - [苦しんで覚えるＣ言語](https://9cguide.appspot.com/index.html): ご存知の
 - [一週間で身につくC言語の基本](http://c-lang.sevendays-study.com/index.html): 
+- [一週間で身につくC言語の基本](http://c-lang.sevendays-study.com/index.html): 
 - [😛 Siv3D for Kids](https://siv3d-for-kids.github.io/): A programming tool to get kids excited about programming
 
 #### Books and Presentations
@@ -9,6 +10,7 @@
 - [🎮 ゲーム開発者のための C++11/C++14](https://www.slideshare.net/Reputeless/c11c14) | 全ゲ連 (2013)
 
 #### Coding Lesson
+- [一週間で身につくアルゴリズムとデータ構造](http://sevendays-study.com/algorithm/): 
 - 💻 私に[プログラミング講座・プライベートレッスンを依頼する](https://ryo-suzuki-contact.github.io/#_10)
 - 🏢 プロフェッショナル C++ から子ども向けまで、オンライン可、最小 1.5 時間
 - 🏫 早稲田情報科学ジュニア・アカデミー（早稲田大学）、駒澤大学、[U-17 未踏ジュニア](https://jr.mitou.org/)でも指導中
