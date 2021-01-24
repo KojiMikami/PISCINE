@@ -11,7 +11,9 @@
 - [UNIX/Linux の部屋](http://x68000.q-e-d.net/~68user/unix/genre.html)
 - [kazmax - Linuxで自宅サーバー](https://kazmax.zpp.jp/cmd/)
 - [Unix/Linux コマンドリファレンス](http://www.yotabanana.com/misc/fwunixref_ja.pdf)
+- [UNIX/Linuxプログラミング　make入門](https://www.creatology.jp/unix/make.html)
 - [UNIXコマンド - コマンドの機能と使用方法](https://www.k-tanaka.net/unix/)
+
 
 #### Git / Github
 - [git](https://git-scm.com/)
