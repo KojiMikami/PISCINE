@@ -28,37 +28,18 @@
 - [Programming Place Plus](https://programming-place.net/ppp/contents/algorithm/index.html)
 - [一週間で身につくアルゴリズムとデータ構造](http://sevendays-study.com/algorithm/)
 - [プログラミング体験ゲーム：アルゴロジック ｜ JEITA](https://home.jeita.or.jp/is/algo/)
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+
+
+
+
 ********************************************************************************************************************************************************************
+
+
+
+
+
+
+
 
 
 - [42 Header](https://marketplace.visualstudio.com/items?itemName=kube.42header)
