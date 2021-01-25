@@ -39,3 +39,5 @@
 
 - [Kerberos認証とは？基礎知識3つのわかりやすい解説をご紹介！](https://www.fenet.jp/infla/column/network/kerberos%E8%AA%8D%E8%A8%BC%E3%81%A8%E3%81%AF%EF%BC%9F%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%983%E3%81%A4%E3%81%AE%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E8%A7%A3%E8%AA%AC%E3%82%92%E3%81%94/)
 - [初心者向けMakefile入門](https://qiita.com/mizcii/items/cfbd2aa17f6b7517c37f)
+- [PATHを通すとは？ (Mac OS X)](https://qiita.com/soarflat/items/09be6ab9cd91d366bf71)
+- [PATHを通すために環境変数の設定を理解する (Mac OS X)](https://qiita.com/soarflat/items/d5015bec37f8a8254380)
