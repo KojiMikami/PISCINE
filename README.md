@@ -5,6 +5,7 @@
 - [一週間で身につくC言語の基本](http://c-lang.sevendays-study.com/index.html) 
 - [初心者のためのポイント学習Ｃ言語](http://www9.plala.or.jp/sgwr-t/)
 - [プログラミング入門サイト〜bituse〜](https://bituse.info/c/)
+- [C の演算子の優先順位](https://ja.cppreference.com/w/c/language/operator_precedence):キャストの優先度が３になっているwebサイトもある。
 
 #### Unix / Linux
 - [UNIXコマンド](http://www.ritsumei.ac.jp/~tomori/unix.html)
