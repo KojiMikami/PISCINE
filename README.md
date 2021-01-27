@@ -27,10 +27,10 @@
 - [アルゴリズムの紹介](http://fussy.web.fc2.com/algo/index.htm)
 - [ソースコード探険隊](https://www.codereading.com/algo_and_ds/)
 - [Programming Place Plus](https://programming-place.net/ppp/contents/algorithm/index.html)
+- [よく使うかもしれないUNIXコマンド Mac](https://qiita.com/ntkgcj/items/46d78c4d92768e77a1ea)
 - [一週間で身につくアルゴリズムとデータ構造](http://sevendays-study.com/algorithm/)
 - [プログラミング体験ゲーム：アルゴロジック ｜ JEITA](https://home.jeita.or.jp/is/algo/)
-- [よく使うかもしれないUNIXコマンド Mac](https://qiita.com/ntkgcj/items/46d78c4d92768e77a1ea)
-- []()
+
 
 
 
