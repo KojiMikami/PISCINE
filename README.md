@@ -44,4 +44,4 @@
 - [初心者向けMakefile入門](https://qiita.com/mizcii/items/cfbd2aa17f6b7517c37f)
 - [PATHを通すとは？ (Mac OS X)](https://qiita.com/soarflat/items/09be6ab9cd91d366bf71)
 - [PATHを通すために環境変数の設定を理解する (Mac OS X)](https://qiita.com/soarflat/items/d5015bec37f8a8254380)
-- [C の演算子の優先順位](https://ja.cppreference.com/w/c/language/operator_precedence)(補足):キャストの優先度が３になっているwebサイトもある。
+- [C の演算子の優先順位](https://ja.cppreference.com/w/c/language/operator_precedence)
