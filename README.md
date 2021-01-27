@@ -14,6 +14,7 @@
 - [Unix/Linux コマンドリファレンス](http://www.yotabanana.com/misc/fwunixref_ja.pdf)
 - [UNIX/Linuxプログラミング　make入門](https://www.creatology.jp/unix/make.html)
 - [UNIXコマンド - コマンドの機能と使用方法](https://www.k-tanaka.net/unix/)
+- [シンプルなUNIX ShellをCで実装するチュートリアル「Write a Shell in C」](https://softantenna.com/wp/unix/write-a-shell-in-c/)
 
 
 #### Git / Github
