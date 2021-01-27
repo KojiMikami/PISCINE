@@ -47,6 +47,6 @@
 - [PATHを通すために環境変数の設定を理解する (Mac OS X)](https://qiita.com/soarflat/items/d5015bec37f8a8254380)
 - [C の演算子の優先順位](https://ja.cppreference.com/w/c/language/operator_precedence)
 - [シンプルなUNIX ShellをCで実装するチュートリアル「Write a Shell in C」](https://softantenna.com/wp/unix/write-a-shell-in-c/)
-
+- [メモリ管理：スタック、ヒープ](https://ufcpp.net/study/computer/MemoryManagement.html)
 
 
