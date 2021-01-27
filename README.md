@@ -14,7 +14,7 @@
 - [Unix/Linux コマンドリファレンス](http://www.yotabanana.com/misc/fwunixref_ja.pdf)
 - [UNIX/Linuxプログラミング　make入門](https://www.creatology.jp/unix/make.html)
 - [UNIXコマンド - コマンドの機能と使用方法](https://www.k-tanaka.net/unix/)
-- [シンプルなUNIX ShellをCで実装するチュートリアル「Write a Shell in C」](https://softantenna.com/wp/unix/write-a-shell-in-c/)
+
 
 
 #### Git / Github
@@ -46,3 +46,7 @@
 - [PATHを通すとは？ (Mac OS X)](https://qiita.com/soarflat/items/09be6ab9cd91d366bf71)
 - [PATHを通すために環境変数の設定を理解する (Mac OS X)](https://qiita.com/soarflat/items/d5015bec37f8a8254380)
 - [C の演算子の優先順位](https://ja.cppreference.com/w/c/language/operator_precedence)
+- [シンプルなUNIX ShellをCで実装するチュートリアル「Write a Shell in C」](https://softantenna.com/wp/unix/write-a-shell-in-c/)
+
+
+
