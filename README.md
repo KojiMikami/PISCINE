@@ -53,3 +53,4 @@
 - [【初心者でもわかる】Linuxでのリンクファイルの作成方法と使い方](https://eng-entrance.com/linux-permission-link)
 - [tarコマンドについて詳しくまとめました 【Linuxコマンド集】](https://eng-entrance.com/linux-command-tar#-f--fileARCHIVE)
 
+
