@@ -48,5 +48,5 @@
 - [C の演算子の優先順位](https://ja.cppreference.com/w/c/language/operator_precedence)
 - [シンプルなUNIX ShellをCで実装するチュートリアル「Write a Shell in C」](https://softantenna.com/wp/unix/write-a-shell-in-c/)
 - [メモリ管理：スタック、ヒープ](https://ufcpp.net/study/computer/MemoryManagement.html)
-
+- [シェルスクリプト入門 書き方のまとめ](http://motw.mods.jp/shellscript/tutorial.html)
 
