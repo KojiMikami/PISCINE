@@ -50,4 +50,5 @@
 - [メモリ管理：スタック、ヒープ](https://ufcpp.net/study/computer/MemoryManagement.html)
 - [シェルスクリプト入門 書き方のまとめ](http://motw.mods.jp/shellscript/tutorial.html)
 - [Linuxのファイルの種類](https://qiita.com/angel_p_57/items/1faafa275525469788b4)
+- [【初心者でもわかる】Linuxでのリンクファイルの作成方法と使い方]()https://eng-entrance.com/linux-permission-link
 
