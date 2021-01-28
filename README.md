@@ -49,4 +49,5 @@
 - [シンプルなUNIX ShellをCで実装するチュートリアル「Write a Shell in C」](https://softantenna.com/wp/unix/write-a-shell-in-c/)
 - [メモリ管理：スタック、ヒープ](https://ufcpp.net/study/computer/MemoryManagement.html)
 - [シェルスクリプト入門 書き方のまとめ](http://motw.mods.jp/shellscript/tutorial.html)
+- [Linuxのファイルの種類](https://qiita.com/angel_p_57/items/1faafa275525469788b4)
 
