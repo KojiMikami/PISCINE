@@ -51,6 +51,6 @@
 - [シェルスクリプト入門 書き方のまとめ](http://motw.mods.jp/shellscript/tutorial.html)
 - [Linuxのファイルの種類](https://qiita.com/angel_p_57/items/1faafa275525469788b4)
 - [【初心者でもわかる】Linuxでのリンクファイルの作成方法と使い方](https://eng-entrance.com/linux-permission-link)
-- [tarコマンドについて詳しくまとめました 【Linuxコマンド集】](https://eng-entrance.com/linux-command-tar#-f--fileARCHIVE)システムコールとは何なのか
+- [tarコマンドについて詳しくまとめました 【Linuxコマンド集】](https://eng-entrance.com/linux-command-tar#-f--fileARCHIVE)
 - [システムコールとは何なのか](https://qiita.com/sxarp/items/aff43dd83b0da69b92ce#:~:text=%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%AB%E3%81%A8%E3%81%AFOS,%E3%81%99%E3%82%8B%E4%B8%8A%E3%81%A7%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99%E3%80%82)
 
