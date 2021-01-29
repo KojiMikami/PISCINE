@@ -22,6 +22,7 @@
 - [キツネの惑星](https://kitsune.blog/git-summary)
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - [GitHubの大枠をわかりやすくまとめてみた](https://qiita.com/daisuke19840125/items/eaf6928f7accf00773f0)
+- [(翻訳)【GitHub公式】Gitコマンドチートシート](https://qiita.com/okamu_/items/d52a6900311ad9073628)
 - [GitHub Desktop：初心者でも分かる、易しい使い方](https://ferret-plus.com/8498)
 
 #### アルゴリズムとデータ構造
