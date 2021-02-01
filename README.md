@@ -24,6 +24,7 @@
 - [GitHubの大枠をわかりやすくまとめてみた](https://qiita.com/daisuke19840125/items/eaf6928f7accf00773f0)
 - [(翻訳)【GitHub公式】Gitコマンドチートシート](https://qiita.com/okamu_/items/d52a6900311ad9073628)
 - [GitHub Desktop：初心者でも分かる、易しい使い方](https://ferret-plus.com/8498)
+- [【初心者向け】Gitとは何なのか。基本用語やその仕組みをまとめています。](https://tcd-theme.com/2019/12/what-is-git.html?gclid=Cj0KCQiAx9mABhD0ARIsAEfpavTl-PbdhMi650WIp65_GW65d6aaidsh-xhNB2cn3dXL9EdAkSYyrtcaAuJZEALw_wcB)
 
 #### アルゴリズムとデータ構造
 - [アルゴリズムの紹介](http://fussy.web.fc2.com/algo/index.htm)
