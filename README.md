@@ -59,5 +59,6 @@
 - [システムコールとは何なのか](https://qiita.com/sxarp/items/aff43dd83b0da69b92ce#:~:text=%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%AB%E3%81%A8%E3%81%AFOS,%E3%81%99%E3%82%8B%E4%B8%8A%E3%81%A7%E9%87%8D%E8%A6%81%E3%81%A7%E3%81%99%E3%80%82)
 - [これからvimコマンドを使おうとしている方々へ](https://qiita.com/HiromuMasuda0228/items/5ef842ee50e7ac5e85f2)
 - [ポインタと配列を組み合わせて遊ぶ](https://qiita.com/yz2cm/items/77b98658bfd922236817)
+- [VSCodeのマルチカーソル練習帳](https://qiita.com/TomK/items/3b1f5be07d708d7bd6c5)
 
 
